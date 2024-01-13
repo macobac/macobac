@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my personal portfolio!
-- 🌱 I’m currently learning vanilla javascript.
-- 💬 Ask me about sending you cute photos of my cats ;)
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: Did you know that JavaScript sucks the joy out of life and then gives it back in tiny pieces when it decides to work? Me neither!
+About me:
+- studying front-end development, finishing summer 2024
+- HTML, CSS, vanilla JS
+- favourite aspect of frontend/webdesign: design<3
+- cats are everything
